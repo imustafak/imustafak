@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imustafak
-- 👀 I’m interested in C++ and Game Development
+- 👀 I’m interested in C++,C# and Game Development
 - 🌱 I’m currently learning Python and React Native
 - 📫 How to reach me LinkedIN: https://www.linkedin.com/in/mustafa-korkmaz-0ba75821a
                      Instagram: @imustafakorkmaz 
